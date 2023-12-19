@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Archivos</title>
+    <link rel="stylesheet" href="asset/css/estilos.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        #output {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Verificador de Archivos</h1>
+    
+    <textarea id="fileList" rows="10" cols="50" placeholder="Introduce la lista de archivos y checksums"></textarea><br>
+    <button onclick="checkFiles()">Verificar Archivos</button>
+
+    <h2>Resultados:</h2>
+    <div id="output"></div>
+
+    <script src="asset/js/app.js"></script>
+</body>
+</html>
