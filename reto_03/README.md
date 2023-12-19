@@ -1,4 +1,4 @@
-$ cat CHALLENGE_03.txt
+
 ** El Desafío del Cifrado Espía **
 Un grupo de espías ha descubierto que su sistema de cifrado de mensajes está comprometido.
 
