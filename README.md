@@ -7,5 +7,9 @@ Por [Midudev](https://github.com/midudev)
 | Reto| Descripción  | Lanzada  | Elaborada | Terminada |
 |:---- | :---------- |:-------- | :-------- | :-----------:|
 |CHALLENGE_01.txt | Espía enviando mensajes encriptados.     | 03/Nov/2023 | Html, Css y JavaScript | ✅ |
+|CHALLENGE_02.txt | Mini Compiler Challenge.     |  | Html, Css y JavaScript | ✅ |
+|CHALLENGE_03.txt | El Desafío del Cifrado Espía.     |  | Html, Css y JavaScript | ✅ |
+|CHALLENGE_04.txt | Hackers dañan sistema de archivos.     |  | Html, Css y JavaScript | ✅ |
+|CHALLENGE_05.txt | El problema final .     |  | Html, Css y JavaScript | ✅ |
 
 ----
